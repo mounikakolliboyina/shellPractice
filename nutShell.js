@@ -19,6 +19,7 @@ const currentDirectory = function (args) {
 };
 
 const storeFiles = function (args) {
+
   files.push(args);
 };
 
